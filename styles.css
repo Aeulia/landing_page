@@ -1,0 +1,169 @@
+* {
+    margin:0;
+    box-sizing: border-box;
+    font-family: roboto, sans-serif;
+}
+
+.body {
+    background-color: #1F2937;
+    color:white;
+    padding:15px 350px 100px 350px;
+
+}
+
+a {
+    text-decoration: none;
+    color:white;
+    margin:0 10px;
+
+}
+
+.header {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom:100px;
+    
+
+}
+
+
+div h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color:#F9FAF8
+}
+
+.content-one {
+    display:flex;
+    align-items: center;
+    font-size:18px;
+
+    
+}
+
+.image{
+    display:flex;
+    background-color:grey;
+    opacity:0.8;
+    color:white;
+    width:500px;
+    height:250px;
+    margin-left:auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    padding:10px 25px;
+    background-color: #3882F6;
+    border:none;
+    border-radius: 5px;
+    color:white;
+}
+
+.information {
+    padding:15px 200px 100px 200px;
+
+}
+
+.title {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:50px 0;
+    font-size:18px;
+    font-weight:bold;
+    color:#1F2937;
+}
+
+img {
+    width:150px;
+    height:150px;
+    border:5px solid  #3882F6;
+    border-radius: 10px;
+}
+
+.items {
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    padding:0 200px;
+    
+}
+
+.text {
+    width:150px;
+}
+
+.quote {
+    background-color:#E5E7EB;
+    padding:100px 300px 100px 300px;
+    display:flex;
+    flex-direction: column;
+    margin:none;
+
+    
+
+    
+}
+.actual {
+    font-size:36px;
+    font-family: light italic;
+    color:#1F2937;
+}
+
+.source {
+    margin-left:auto;
+    margin-right:90px;
+    margin-top:20px;
+    
+}
+
+.action {
+    background-color:#3882F6;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:50px 25px 50px 25px;
+    margin:100px 400px;
+    border-radius: 10px;
+    color:white;
+    padding-left:-50px;
+}
+
+.content-two.bold{
+    font-weight:bold;
+}
+
+.button-two {
+    color:white;
+    padding:5px 25px;
+    background-color: #3882F6;
+    border:2px solid white;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #1F2937;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:30px 0px 30px 0px;
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
